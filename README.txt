@@ -14,4 +14,6 @@ Jupyter Notebook
 
 2. Lesson-2_practice.ipynb - Практика к Уроку-2
 
+3. Lesson-3_practice.ipynb - Практика к Уроку-3
+
 
