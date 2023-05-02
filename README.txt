@@ -16,4 +16,7 @@ Jupyter Notebook
 
 3. Lesson-3_practice.ipynb - Практика к Уроку-3
 
+4. Lesson-3_practice.ipynb - Практика к Уроку-4
+   (Промежуточная аттестация)
+
 
